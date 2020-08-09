@@ -2,13 +2,13 @@
 
 This project is a game application developed using React and Bootstrap4.
 
-## Game Play
+## GamePlay
 
 The user is presented with a set of unexposed cards when the game is launched. Each card holds a random number beneath. There are exactly 2 cards holding the same number.
 
 ![Game Launch](/screenshots/memory_card_game_react_initial_screen.jpg)
 
-The user needs to flip a card to expose the number it holds. He then have to find a corresponding matching card. If the cards match, the cards remain exposed, otherwise they get flipped back. At any stage during the game, the user could reset the game.
+The user needs to flip a card to expose the number it holds. He then has to find a corresponding matching card. If the cards match, the cards remain exposed, otherwise they get flipped back. At any stage during the game, the user could reset the game.
 
 ![Game Progress](/screenshots/memory_card_game_react_game_in_progress.jpg)
 
